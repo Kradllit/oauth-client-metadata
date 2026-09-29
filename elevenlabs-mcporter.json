@@ -1,4 +1,5 @@
 {
+  "client_id": "https://kradllit.github.io/oauth-client-metadata/elevenlabs-mcporter.json",
   "client_name": "mcporter on Serhii's Mac",
   "application_type": "native",
   "redirect_uris": [
